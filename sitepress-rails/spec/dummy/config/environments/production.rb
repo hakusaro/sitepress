@@ -1,4 +1,5 @@
 Rails.application.configure do
+  config.load_defaults '6.1'
   # Settings specified here will take precedence over those in config/application.rb.
 
   # Code is not reloaded between requests.
